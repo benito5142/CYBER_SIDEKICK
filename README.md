@@ -35,9 +35,10 @@ Live Demo:[SIDEKICK](https://cyber-sidekick.vercel.app/)
   Linkdin:[Lets raise together](https://www.linkedin.com/in/benito-f-a-rayer/)
 
 ## Preview Images
-![image](./Screenshot (421).png)
+![image](./s1.png)
 <br></br>
-![image](./Screenshot (422).png)
+![image](./s2.png)
 <br></br>
-![image](./Screenshot (423).png)
+![image](./s3.png)
+
 
